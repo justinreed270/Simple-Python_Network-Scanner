@@ -10,6 +10,15 @@ Before running the script, make sure you have the following prerequisites instal
 
 - Python 3.x
 
+## Setup Instructions:
+1. Clone the repo
+2. Download PsExec64.exe
+
+
+## system level installs:
+apt install samba-common-bin
+
+
 ## How to Use
 
 1. Open a terminal or command prompt.
